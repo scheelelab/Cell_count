@@ -1,0 +1,6 @@
+matplotlib==3.6.1
+kneebow==1.0.1
+numpy==1.22.1
+opencv-python==4.6.0.66
+scikit-image==0.19.3
+pandas==1.5.0
